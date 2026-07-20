@@ -1,7 +1,7 @@
 # 🚀 FinTech Fraud Detection Pipeline – CI/CD Extension
 
 > **Extension Project**  
-> This repository extends the original **FinTech Fraud Detection Pipeline** by implementing modern **DevOps** and **CI/CD** practices for Azure Databricks. The focus of this project is to automate deployment of Databricks jobs and notebooks using **Databricks Asset Bundles** and **GitHub Actions**, eliminating manual deployments and enabling Infrastructure as Code (IaC).
+> This repository extends the original **[Real-Time FinTech Fraud Detection Pipeline](https://github.com/Sarthakag21/fintech-fraud-detection)** by implementing modern **DevOps** and **CI/CD** practices for Azure Databricks. The focus of this project is to automate deployment of Databricks jobs and notebooks using **Databricks Asset Bundles** and **GitHub Actions**, eliminating manual deployments and enabling Infrastructure as Code (IaC).
 
 ---
 
@@ -224,12 +224,33 @@ This ensures every deployment is validated and reproducible.
 
 # 📸 Screenshots
 
-- GitHub Actions successful workflow
-- Bundle validation
-- Bundle deployment
-- Databricks Jobs
-- Repository Structure
-- Architecture Diagram
+## Bundle Validation
+
+<img width="1092" height="252" alt="databricks bundle validate" src="https://github.com/user-attachments/assets/b26073fd-d340-4a6c-9692-3f324e6908ea" />
+
+---
+
+## Bundle Deployment
+
+<img width="1297" height="177" alt="databricks bundle deploy" src="https://github.com/user-attachments/assets/49fc1901-fb4d-4b17-ab98-24ba6ace49cd" />
+
+---
+
+## Databricks Jobs
+
+<img width="1662" height="542" alt="databricks job" src="https://github.com/user-attachments/assets/baedecea-469a-4eca-b0e8-0161d6510993" />
+
+---
+
+## GitHub Actions Success
+
+<img width="1437" height="652" alt="GitHub Actions Success" src="https://github.com/user-attachments/assets/0c36a9d5-cbc4-4bab-8bc9-323e0b256cf9" />
+
+---
+
+## GitHub Secrets
+
+<img width="1177" height="315" alt="GitHub secrets" src="https://github.com/user-attachments/assets/5db25348-bfd9-4d93-8c2b-d9d594ed48e8" />
 
 ---
 
@@ -255,4 +276,4 @@ Data Engineer | Azure | Databricks | PySpark | Delta Lake | CI/CD | GitHub Actio
 
 ## 🔗 Related Project
 
-This repository is an extension of the **Real-Time FinTech Fraud Detection Pipeline**, focusing specifically on deployment automation and Infrastructure as Code for Azure Databricks.
+This repository is an extension of the **[Real-Time FinTech Fraud Detection Pipeline](https://github.com/Sarthakag21/fintech-fraud-detection)**, focusing specifically on deployment automation and Infrastructure as Code for Azure Databricks.
