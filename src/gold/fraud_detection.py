@@ -1,7 +1,4 @@
 # Databricks notebook source
-import spark
-from IPython import display
-
 silver_path = "abfss://silver@storagefintechfraud.dfs.core.windows.net/transactions"
 
 # COMMAND ----------

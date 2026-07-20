@@ -1,7 +1,4 @@
 # Databricks notebook source
-from tests.conftest import spark
-
-
 gold_df = spark.read.table(
     "databricksfintechfraud.default.fraud_transactions"
 )
