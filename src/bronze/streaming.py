@@ -1,6 +1,8 @@
 # Databricks notebook source
 from pyspark.sql.types import *
 
+import spark
+
 txn_schema = StructType([
     StructField("transaction_id", StringType(), True),
     StructField("user_id", StringType(), True),
