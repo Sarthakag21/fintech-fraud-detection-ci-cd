@@ -1,7 +1,7 @@
 # 🚀 FinTech Fraud Detection Pipeline – CI/CD Extension
 
 > **Extension Project**  
-> This repository extends the original **[Real-Time FinTech Fraud Detection Pipeline](https://github.com/Sarthakag21/fintech-fraud-detection)** by implementing modern **DevOps** and **CI/CD** practices for Azure Databricks. The focus of this project is to automate deployment of Databricks jobs and notebooks using **Databricks Asset Bundles** and **GitHub Actions**, eliminating manual deployments and enabling Infrastructure as Code (IaC).
+> This repository extends the original **[FinTech Fraud Detection Pipeline](https://github.com/Sarthakag21/fintech-fraud-detection)** by implementing modern **DevOps** and **CI/CD** practices for Azure Databricks. The focus of this project is to automate deployment of Databricks jobs and notebooks using **Databricks Asset Bundles** and **GitHub Actions**, eliminating manual deployments and enabling Infrastructure as Code (IaC).
 
 ---
 
@@ -276,4 +276,4 @@ Data Engineer | Azure | Databricks | PySpark | Delta Lake | CI/CD | GitHub Actio
 
 ## 🔗 Related Project
 
-This repository is an extension of the **[Real-Time FinTech Fraud Detection Pipeline](https://github.com/Sarthakag21/fintech-fraud-detection)**, focusing specifically on deployment automation and Infrastructure as Code for Azure Databricks.
+This repository is an extension of the **[FinTech Fraud Detection Pipeline](https://github.com/Sarthakag21/fintech-fraud-detection)**, focusing specifically on deployment automation and Infrastructure as Code for Azure Databricks.
