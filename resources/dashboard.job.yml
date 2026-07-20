@@ -1,0 +1,12 @@
+resources:
+  jobs:
+    dashboard_job:
+      name: Dashboard Job
+
+      tasks:
+        - task_key: dashboard
+
+          existing_cluster_id: 0704-171212-zh9wtzff
+
+          notebook_task:
+            notebook_path: ../src/dashboard/export.py

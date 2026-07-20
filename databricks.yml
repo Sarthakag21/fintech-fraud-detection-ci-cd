@@ -1,0 +1,13 @@
+bundle:
+  name: fintech-fraud-detection-cicd
+
+include:
+  - resources/*.job.yml
+
+targets:
+  dev:
+    default: true
+    mode: development
+
+    workspace:
+      host: https://adb-7405617551776827.7.azuredatabricks.net

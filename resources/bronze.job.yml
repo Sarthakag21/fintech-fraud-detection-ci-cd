@@ -1,0 +1,12 @@
+resources:
+  jobs:
+    bronze_job:
+      name: Bronze Job
+
+      tasks:
+        - task_key: bronze
+
+          existing_cluster_id: 0704-171212-zh9wtzff
+
+          notebook_task:
+            notebook_path: ../src/bronze/streaming.py

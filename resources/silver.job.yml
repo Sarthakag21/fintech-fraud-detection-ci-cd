@@ -1,0 +1,12 @@
+resources:
+  jobs:
+    silver_job:
+      name: Silver Job
+
+      tasks:
+        - task_key: silver
+
+          existing_cluster_id: 0704-171212-zh9wtzff
+
+          notebook_task:
+            notebook_path: ../src/silver/transformation.py
